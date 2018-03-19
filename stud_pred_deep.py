@@ -89,4 +89,4 @@ print("no of student marks predicted with less than or equal to 20% error",c3)
         
     
     
-'''compare y_test and predicted to get an underdtand the prediction'''
+'''compare y_test and predicted to get an understand the prediction'''
